@@ -1,0 +1,12 @@
+{
+  "name": "graphdatabase",
+  "version": "1.0.0",
+  "description": "A mini test app to teach myself how to utilize a graph database in a node app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Dan Roberts",
+  "license": "ISC"
+}
